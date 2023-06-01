@@ -1,1 +1,3 @@
 # Calculator
+This was a part of the Odin-Project and was by far my least favorite, For some reason I was very challenged by this I did end up getting it 
+however I am ashamed to admit that this code was my 7th iteration after restarting and I had to seek outside help. Finally this was the output and admitidly it is not as good as it could be but I learned a valuable lesson on taking breaks and burnout. So all in all I learned something first classes and functions can help you but to many can confuse you. The same Is true for to little and having multiple calculations/processes in one function can make it unusable. Laslty DO NOT TRY TO CODE FOR 4 DAYS STRAIGHT WITH LESS THAN 2 HOUR OF SLEEP. Not A good Idea
