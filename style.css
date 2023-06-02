@@ -7,8 +7,14 @@ body {
     radial-gradient(at 24% 75%, hsla(191,100%,17%,1) 0px, transparent 50%),
     radial-gradient(at 71% 83%, hsla(233,100%,15%,1) 0px, transparent 50%),
     radial-gradient(at 0% 0%, hsla(249,91%,16%,1) 0px, transparent 50%);
-    background-size: 150%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-tems: center;
     overflow: hidden;
+    height: 100vh;
+    width: auto;
 }
 
 .calculator {
