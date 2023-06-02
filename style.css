@@ -1,3 +1,13 @@
+body {
+    background-color:hsla(260,100%,32%,1);
+background-image:
+radial-gradient(at 95% 13%, hsla(300,91%,15%,1) 0px, transparent 50%),
+radial-gradient(at 34% 24%, hsla(239,81%,21%,1) 0px, transparent 50%),
+radial-gradient(at 0% 50%, hsla(206,100%,15%,1) 0px, transparent 50%),
+radial-gradient(at 24% 75%, hsla(191,100%,17%,1) 0px, transparent 50%),
+radial-gradient(at 71% 83%, hsla(233,100%,15%,1) 0px, transparent 50%),
+radial-gradient(at 0% 0%, hsla(249,91%,16%,1) 0px, transparent 50%);
+}
 .calculator {
     display: flex;
     flex-direction: column;
